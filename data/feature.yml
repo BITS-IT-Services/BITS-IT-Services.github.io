@@ -1,0 +1,15 @@
+---
+enable: true
+title: Who We Are
+description: Our mission is to make information accessible through innovative technology and solutions.
+description2: Whether internet connectivity, systems to streamline your business processes or website to create global presence on your products and services, we are confident to bring ease of business and help your company succeed.
+buttonText: Call us
+Title2nd: Our Solutions
+description2nd: A website is often the first exposure anyone has to your business and should be as unique as your company. At BITS IT Services, we offer professional, feature-rich responsive web design services. Want to make your site pop? Seasoned in the art of website design and web development, our team customizes each app to match the look and feel of your site from the start.
+image1: images/feature/feature-illustration-one.svg
+image2: images/feature/feature-illustration-two.svg
+checkItem:
+  - text: Web Design
+  - text: Web Development & Ecommerce
+  - text: Results-Based SEO
+  - text: Branding

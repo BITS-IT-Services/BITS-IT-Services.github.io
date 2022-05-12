@@ -1,0 +1,15 @@
+#  icons can be found on https://themify.me/themify-icons
+---
+enable: true
+title: Why Choose BITS?
+desc: BITS will provide you peace of mind and deliver eye-popping results to your business.
+services:
+  - icon: ti-face-smile
+    title: You Need Peace of Mind
+    description: Have you been burned by companies who over-promise and under-deliver?  
+  - icon: ti-bar-chart
+    title: Your Business Needs Results
+    description: Are you consistently generating a steady flow of new customers? 
+  - icon: ti-key
+    title: You Need BITS
+    description: Our done-for-you solutions will help grow your business. 

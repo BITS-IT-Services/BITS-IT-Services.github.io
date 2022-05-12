@@ -1,0 +1,63 @@
+# MAIN base
+baseURL = "http://bitsitservices.net/"
+languageCode = "en-us"
+title = "BITS IT Services | Responsive Web Design & Ecommerce Website Development"
+theme = "apsho-hugo-theme"
+
+# Navigation Bar
+[[menu.main]]
+    name = "Home"
+    url = "#hero"
+    weight = 1
+[[menu.main]]
+    name = "About"
+    url = "#feature"
+    weight = 2
+[[menu.main]]
+    name = "FAQ"
+    url = "#faq"
+    weight = 3
+[[menu.main]]
+    name = "Blog"
+    url = "#blog"
+    weight = 4
+
+# Footer Sitemap
+[[menu.sitemap]]
+    name = "Blog"
+    url = "/blog"
+    weight = 1
+[[menu.sitemap]]
+    name = "Privacy & Policy"
+    url = "/privacy"
+    weight = 2
+[[menu.sitemap]]
+    name = "Contact"
+    url = "/contact"
+    weight = 3
+
+# Footer Address
+[params.address]
+address = "Door 1, #52 YMCA Bldg,Magsaysay Sur,Cabanatuan City"
+email = "info@bitsitservices.net"
+phone = "+639156207545"
+
+# Footer Social
+[params.social]
+facebook = "https://www.facebook.com/pg/staticmania"
+twitter = "https://twitter.com/static_mania"
+
+
+[params]
+
+# Header
+logo = "images/logo.png"
+formspreeURL = "https://formspree.io/mjvankow"
+googleAnalytics = "UA-175025671-2"
+
+# Footer
+copyright1 = "All right reserved"
+copyright2 = "Copyright © BITS IT Services 2022"
+
+#contact
+email = "info@bitsitservices.net"

@@ -1,0 +1,24 @@
+---
+enable: true
+title: What our amazing clients say about us
+description: The quick, brown fox jumps over a lazy dog. DJs flock by when MTV ax quiz prog. Junk MTV quiz graced by fox whelps.Error6251 is the best, Bawds jog, flick quartz, vex nymphs.
+comments:
+  - text: Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit..
+    name: Edgar Alla Poe
+    designation: Senior Developer
+    image: images/client/client-2.png
+
+  - text: Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+    name: Mia Khalifa
+    designation: UX Designer
+    image: images/client/client-1.png
+
+  - text: At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga.
+    name: Johnny Sins
+    designation: CTO
+    image: images/client/client-3.png
+
+  - text: We’ve used their templates before and have always been hugely satisfied - Stack is no exception
+    name: Kerri Reece
+    designation: Designer
+    image: images/client/client-1.png
